@@ -1,0 +1,32 @@
+.header {
+    align-content: center;
+    margin: 30px auto;
+    background: url("./book.jpg") no-repeat center center; 
+    background-size: cover; 
+    position: relative; 
+    height: 55vh;
+    width: 180vh;
+    border-radius: 15px;
+}
+
+.header-content {
+    position: absolute; 
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%); 
+    text-align: center; 
+    color: white; 
+    animation: FadeIn 3s;
+}
+
+.header-content h1 {
+    color: black;
+    font-size: max(4.5vw,22px);
+    margin: 0;
+    font-weight: 500;
+}
+
+.header-content p {
+    font-size: 1rem;
+    margin-top: 10px;
+}

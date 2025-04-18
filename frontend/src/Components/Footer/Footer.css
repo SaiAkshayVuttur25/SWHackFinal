@@ -1,0 +1,126 @@
+.Footer {
+    color: #d9d9d9;
+    background-color: #323232;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    padding: 20px 20px;
+    font-family: 'Roboto', Arial, sans-serif;
+    padding-top: 80px;
+    padding: 50px 8vw;
+    margin-top: 100px;
+  }
+  
+  .footer-text {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr;
+    gap: 80px;
+  }
+  
+  .left-content, .center, .right-content {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    gap: 20px;
+  }
+  
+  .left-content {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .left-content img {
+    width: 80px;
+    height: auto;
+    margin-bottom: 15px;
+  }
+  
+  .left-content p {
+    font-size: 16px;
+    line-height: 1.8;
+    color: #d9d9d9;
+  }
+  
+  .images {
+    display: flex;
+    gap: 15px;
+    margin-top: 20px;
+  }
+  
+  .images svg {
+    background-color: transparent;
+    width: 28px;
+    height: 28px;
+    cursor: pointer;
+    fill: #6c757d;
+    transition: fill 0.3s ease, transform 0.3s ease;
+  }
+  
+  .images svg:hover {
+    fill: #0d6efd;
+    transform: scale(1.2);
+  }
+  
+  .center h2, .right-content h2 {
+    font-size: 20px;
+    margin-bottom: 15px;
+    color: #0d6efd;
+  }
+  
+  .center ul, .right-content ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .center li,.right-content li {
+    font-size: 15px;
+    line-height: 1.8;
+    cursor: pointer;
+  }
+  
+  .center li:hover,
+  .right-content li:hover {
+    text-decoration: underline;
+    color: #0d6efd;
+  }
+  
+  .right-content ul li:first-child {
+    font-weight: bold;
+  }
+  
+  
+  
+  .copyright {
+    text-align: center;
+    font-size: 14px;
+    color: #6c757d;
+  }
+  
+  @media (max-width: 768px) {
+    .footer-text {
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .left-content {
+      align-items: center;
+      text-align: center;
+    }
+  
+    .left-content img {
+      margin-bottom: 5px;
+    }
+  
+    .center ul,.right-content ul {
+      text-align: center;
+    }
+  }
+hr{
+    width: 100%;
+    height: 0.5px;
+    margin: 20px 0px;
+    background-color: gray;
+}

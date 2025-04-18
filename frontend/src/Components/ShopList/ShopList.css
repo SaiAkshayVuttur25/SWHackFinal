@@ -1,0 +1,31 @@
+.shop-list {
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .category-name {
+    text-transform: capitalize;
+    color: teal;
+  }
+  
+  .shop-grid {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 1rem;
+  }
+  
+  .shop-card {
+    background: #f1f1f1;
+    padding: 1rem 2rem;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background 0.3s;
+  }
+  
+  .shop-card:hover {
+    background: #e0e0e0;
+  }
+  
