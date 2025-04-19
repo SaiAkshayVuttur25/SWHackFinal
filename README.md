@@ -53,38 +53,42 @@ This project is a web application for a local vendor business that showcases pro
 
 ## Screenshots
 
-Here are some screenshots to showcase the different sections of the website:
 ### Main Page
 
-![Main Page Screenshot](Screenshot_2025-04-18_155743.png)
+![Main Page Screenshot](Screenshot%202025-04-18%20155743.png)
 
 ### Product Search
 
-![Product Search Screenshot](Screenshot_2025-04-18_155753.png)
+![Product Search Screenshot](Screenshot%202025-04-18%20155753.png)
 
 ### Cart with Toast Notification
 
-![Cart with Toast Screenshot](Screenshot_2025-04-18_155802.png)
+![Cart with Toast Screenshot](Screenshot%202025-04-18%20155802.png)
 
 ### Another Page
 
-![Another Screenshot](Screenshot_2025-04-18_155811.png)
+![Another Screenshot](Screenshot%202025-04-18%20155811.png)
 
 ### Additional Features
 
-![Additional Screenshot](Screenshot_2025-04-18_155823.png)
+![Additional Screenshot](Screenshot%202025-04-18%20155823.png)
 
 ### More Functionality
 
-![More Functionality Screenshot](Screenshot_2025-04-18_155827.png)
+![More Functionality Screenshot](Screenshot%202025-04-18%20155827.png)
 
 ### Final View
 
-![Final View Screenshot](Screenshot_2025-04-18_155837.png)
+![Final View Screenshot](Screenshot%202025-04-18%20155837.png)
 
 ### Confirmation Message
 
-![Confirmation Message Screenshot](Screenshot_2025-04-18_155849.png)
+![Confirmation Message Screenshot](Screenshot%202025-04-18%20155849.png)
+
+### Success Page
+
+![Success Page Screenshot](Screenshot%202025-04-18%20162736.png)
+Confirmation Message Screenshot](Screenshot_2025-04-18_155849.png)
 
 ### Success Page
 
