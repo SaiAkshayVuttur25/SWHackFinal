@@ -54,18 +54,42 @@ This project is a web application for a local vendor business that showcases pro
 ## Screenshots
 
 Here are some screenshots to showcase the different sections of the website:
-
 ### Main Page
 
-![Main Page Screenshot](images/main_page.png)
+![Main Page Screenshot](Screenshot_2025-04-18_155743.png)
 
 ### Product Search
 
-![Product Search Screenshot](images/product_search.png)
+![Product Search Screenshot](Screenshot_2025-04-18_155753.png)
 
 ### Cart with Toast Notification
 
-![Cart with Toast Screenshot](images/cart_toast.png)
+![Cart with Toast Screenshot](Screenshot_2025-04-18_155802.png)
+
+### Another Page
+
+![Another Screenshot](Screenshot_2025-04-18_155811.png)
+
+### Additional Features
+
+![Additional Screenshot](Screenshot_2025-04-18_155823.png)
+
+### More Functionality
+
+![More Functionality Screenshot](Screenshot_2025-04-18_155827.png)
+
+### Final View
+
+![Final View Screenshot](Screenshot_2025-04-18_155837.png)
+
+### Confirmation Message
+
+![Confirmation Message Screenshot](Screenshot_2025-04-18_155849.png)
+
+### Success Page
+
+![Success Page Screenshot](Screenshot_2025-04-18_162736.png)
+
 
 ## Contributing
 
